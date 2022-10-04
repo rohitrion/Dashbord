@@ -1,0 +1,9 @@
+.po{
+    color: blueviolet;
+    background-color: red;
+}
+.fix{
+    position: relative;
+    justify-content: center;
+    float: inline-start;
+}
